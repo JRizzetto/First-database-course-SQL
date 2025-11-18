@@ -1,0 +1,6 @@
+-- `SELECT 5 + 7` resulta em 12. -> Você pode testar operadores e funções diretamente utilizando expressões.
+-- - `SELECT INSTR('TONY STARK', 'TONY')` -> verifica a presença de substring.
+-- Os operadores lógicos permitem combinar expressões booleanas: AND, OR, BETWEEN, IN, NOT, IS NULL, e IS NOT NULL.
+-- As funções chave incluem: - `abs()`, `coalesce()`, `instr()`, `length()`, `trim()`, `random()`, `replace()`, `substr()`, `lower()`, e `upper()`.
+-- As funções para agregar dados incluem: - `avg()`, `count()`, `max()`, `min()`, `sum()`, `group_concat()`.
+-- 
